@@ -62,3 +62,4 @@
 * Toknize 진행
 * RNN Transfrom의 지식 습득
 * Tensorflow의 공식문서 활용 방법
+* 학습 과정 시각화 방법
