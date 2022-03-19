@@ -18,7 +18,7 @@
 <br>
 <br>
  
-- 기간 : 2022. 1. 18
+- 기간 : 2022. 2. 9~ 2022. 2. 10
 - 내용 : Tensorflow 공식 문서와 강의를 토대로 포르투갈어를 영어로 번역하는 기술
 - Model : Rnn, Transformer  
 - 공식문서 : https://www.tensorflow.org/text/tutorials/transformer
